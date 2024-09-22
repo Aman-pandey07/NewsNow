@@ -16,7 +16,7 @@ import androidx.compose.ui.platform.LocalContext
 // Define your colors
 val RedPrimary = Color(0xFFD32F2F)
 val RedSecondary = Color(0xFFC2185B)
-val RedBackground = Color(0xFFFCE4EC)
+val RedBackground = Color(0xFFFFFBFC)
 
 // Update your light and dark color palettes
 private val LightColors = lightColorScheme(
